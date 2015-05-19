@@ -4,8 +4,7 @@
   <artifactId>DesignPatterns</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <description>Three vital Design Pattern Examples</description>
-
-
+  
 <build>
 <plugins>
 	<plugin>
